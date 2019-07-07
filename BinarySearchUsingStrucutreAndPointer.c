@@ -69,6 +69,7 @@ int main()
     {
         printf("Position of the found element at %d", parameter.answer);               
     }
+    /*Checking code Pull Request*/
     else
     {
         printf("Element not found");
